@@ -1,5 +1,5 @@
 # online-food-delivery-system-
-Online Discussion Forum is PHP project.
+Online food delivery system m is web development  project.
 
 Technologies Used
 PHP
